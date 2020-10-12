@@ -1,13 +1,17 @@
 # E--HEALTH-CARD
 
-•	Abstract 
+#Abstract 
+
+
 We made a small application based on person’s requirement and remember the slogan of each and every people “Make India Digital” so if we think for the digitalization so we have to make each and every small and big thing digitalized so if every person thinks that and gave their efforts and  hard works in particular field then we definitely achieve our Aim. So we make a one digitalized online Application that is E-Health Card. This application is very useful in medical life.
 This is digitalized application so there is little bit difficulty in starting but after that it is very much useful for storing purpose and for privacy.
 How e health card works in which platform we can make this application which tools we have to use which functions we have to use, that all described below.
 In this we use java platform swing class, one class, JFrame class, constructor, inbuild functions, user defined functions, file handling like, switch case, Abstract Window Toolkit(AWT) concepts, variables, main method , if else statements ,scanner class , try catch block JFrame components like button , label ,text field , Jpassword field.   
 
 
-•	Intorduction to our project
+#Intorduction to our project
+
+
 We made a small application based on person’s requirement and remember the slogan of each and every people “Make India Digital” so if we think for the digitalization so we have to make each and every small and big thing digitalized so if every person thinks that and gave their efforts and  hard works  in particular field then we definitely achieve our Aim. So we make a one digitalized online Application that is E-Health Card. This application is very useful in medical life.
 What is E-Health card?
 A Health Card is like an identity card, which identifies you as the person who has been insured by your health insurance company. Your health card provides you access to the network hospitals and your selected doctors for your treatment.  The benefit of holding a health card is that it allows you to avail cashless treatment in network hospitals.
